@@ -1,0 +1,65 @@
+.img {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 50%;
+    outline: 2px solid #A40D0D;
+    outline-offset: 0px;
+    margin-top: 2px;
+
+}
+
+
+  .text {
+      text-decoration: underline;
+  }
+
+#style{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+
+
+
+.visible{
+    display: block !important;
+}
+
+.uk-animation-shake{
+    animation-name: uk-shake !important;
+}
+
+.imga {
+    width: 24px;
+    height: 24x;
+    object-fit: cover;
+    border-radius: 50%;
+    outline-offset: 0px;
+    margin-top: 2px;
+
+}
+
+#imgp {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+    outline-offset: 0px;
+    margin-top: 2px;
+
+}
+
+.mrg {
+    margin-right: 2%;
+    
+}
+
+.size {
+    height: 32px;
+}
+
+.mrgt {
+    margin-top: 8%;
+}
